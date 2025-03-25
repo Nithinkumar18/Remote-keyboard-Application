@@ -2,8 +2,8 @@ const mysql = require('mysql');
 
 const mydb = mysql.createConnection({
     host: "localhost",
-    user: "root",
-    password: "NithinKumar@00",
+    user: "",     // add user
+    password: "", // add your password
     database: "remote_keyboard_game"
 });
 
