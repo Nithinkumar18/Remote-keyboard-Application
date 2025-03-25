@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Remote Keyboard Application backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithinkumar18/Remote-keyboard-Application.git"
+  },
+  "author": "Nithin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithinkumar18/Remote-keyboard-Application/issues"
+  },
+  "homepage": "https://github.com/Nithinkumar18/Remote-keyboard-Application#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  }
+}
