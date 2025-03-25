@@ -11,7 +11,7 @@ https://github.com/Nithinkumar18/Remote-keyboard-Application.git
 In the db.js file use your username and password to connect to the database
 
 # Backend Setup
-Move the backend directory in the terminal and run the following command
+Move to the backend directory in the terminal and run the following command
 
 npm i OR npm install
 
